@@ -18,6 +18,7 @@ Screens:
 ![](/screens/1.png "Create repository from template")
 
 2. Setup repository:
+
 ![](/screens/2.png "Setup repository")
 
 3. Invite collaborators:
