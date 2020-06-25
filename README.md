@@ -12,6 +12,11 @@ Be sure not to neglect tests!
 
 In orded to supply your entry you need to click "Use this template" button, create your own private repository and invite https://github.com/LukaszRozmej and https://github.com/tkstanczak as collaborators. Then develop your solution in a separate branch. When you are finished, create a Pull Request to master and add us as reviewers.
 
+TL;DR; goals: 
+  * Write review in form of comments in CsvReaderWriter_review.cs file (do not change the code inside) 
+  * Refactor code in CsvReaderWriter.cs file (you can do whatever change you want in this file) 
+  * Write some tests for your refactored code 
+
 Screens:
 
 1. Create repository from template:
