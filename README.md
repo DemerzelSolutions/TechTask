@@ -14,12 +14,16 @@ In orded to supply your entry you need to click "Use this template" button, crea
 
 Screens:
 
+1. Create repository from template:
 ![](/screens/1.png "Create repository from template")
 
+2. Setup repository:
 ![](/screens/2.png "Setup repository")
 
+3. Invite collaborators:
 ![](/screens/3.png "Invite collaborators")
 
+4. After work done create pull request with reviewers:
 ![](/screens/4.png "Create pull request with reviewers")
 
 Good luck!
